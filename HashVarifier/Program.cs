@@ -1,0 +1,3 @@
+﻿using HashVarifier;
+
+App.Run();
